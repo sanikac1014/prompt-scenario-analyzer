@@ -18,6 +18,7 @@ A full-stack web application that uses AI to analyze user-defined scenarios and 
 prompt-engineer-project/
 ├── frontend/        # React app (UI)
 └── backend/         # Spring Boot app (API)
+└── screenshots/         
 ```
 
 ---
