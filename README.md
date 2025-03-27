@@ -8,7 +8,7 @@ A full-stack web application that uses AI to analyze user-defined scenarios and 
 - ✅ Input a scenario and constraints
 - ⚠️ Displays potential pitfalls
 - ✅ Suggests strategies and resources
-- 🧠 Works with OpenAI (or mock mode)
+- 🧠 Works with mock mode(or OpenAI)
 - ✅ Backend validation + tests included
 
 ---
